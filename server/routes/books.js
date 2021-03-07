@@ -1,6 +1,9 @@
 /* Book.js
-Manpreet Kaur , Student Id-301175898
-07/03/2021*/
+Manpreet Kaur ,
+Student Id-301175898
+07/03/2021
+COMP229-W2021-Midterm-301175898
+*/
 // modules required for routing
 let express = require('express');
 let router = express.Router();
