@@ -25,7 +25,7 @@ router.get('/', (req, res, next) => {
         books: books
       });
     }
-  });
+  }).sort("name");
 
 });
 
